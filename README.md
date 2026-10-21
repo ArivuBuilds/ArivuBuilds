@@ -1,4 +1,4 @@
-# Hi, I'm Arivu 👋 
+# Hi, I'm Arivumani 👋 
 ### Associate Technical Lead & Distributed Systems Architect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arivubuilds)
