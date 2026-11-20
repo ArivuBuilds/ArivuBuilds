@@ -36,19 +36,21 @@ My engineering focus centers on:
 
 ## 🚀 Featured Repository: Open-Source Architecture Playbook
 
-### 📘 [java-distributed-systems-playbook](https://github.com/ArivuBuilds/java-distributed-systems-playbook)
-> *A production-grade reference manual covering core Java internals, 12 microservices resilience patterns with runnable code, and 50 distributed system design trade-offs.*
+📘 **[java-distributed-systems-playbook](https://github.com/ArivuBuilds/java-distributed-systems-playbook)**
 
-- **Module 1: Java Internals & Concurrency**
-  - Memory Model & Hardware Fences (`StoreLoad`, `volatile`, Happens-Before)
-  - `ReentrantLock` vs. `synchronized` & Multi-Condition Queues (Thundering Herd avoidance)
-  - Virtual Threads (Project Loom) vs. Platform Thread pools & carrier pinning caveats
-- **Module 2: 12-Day Microservices Resilience Series**
-  - Transactional Outbox Pattern via Debezium CDC
-  - Distributed Saga Orchestration for multi-step policy binding
-  - Distributed Token Bucket Rate Limiting with Redis
-- **Module 3: Distributed System Design (50 Core Concepts)**
-  - Cache stampede mitigation, consistent hashing virtual nodes, and linearizable consistency
+> *An enterprise-grade architecture and code playbook covering Java 21 internals, SOLID OO design, 12 microservices resilience patterns, 12 edge API protocols, LLM infrastructure, and systems-focused DSA.*
+
+- **Module 1: Java Internals & OO Design Mastery (7/7 Completed)**
+  - Memory Model & Hardware Fences (`StoreLoad`, `volatile`, Happens-Before), custom AQS synchronizers, and `VarHandle` lock-free queues
+  - 64-byte L1/L2/L3 cache-line padding (`@Contended`) & Project Loom Virtual Threads carrier-pinning diagnostics
+  - 7-Day Enterprise SOLID Design Principles Masterclass (`p01`–`p07`) with Spring Boot dynamic strategy registries & hexagonal ports
+- **Module 2: 12-Day Microservices Architecture Series (12/12 Completed)**
+  - API Gateway, Service Discovery, BFF, Resilience4j (Circuit Breaker, Bulkhead, Retry with Jitter), and Database-per-Service
+  - CQRS Projection Engine, Transactional Outbox via Debezium CDC, Saga Orchestration, Envoy mTLS Service Mesh, and Strangler Fig migration
+- **Module 3: 12-Day API Architecture Series (12/12 Completed)**
+  - RESTful HATEOAS, GraphQL N+1 complexity guards, gRPC/Protobuf multiplexing, WebSockets, and HMAC-SHA256 Webhooks
+  - Uni-directional LLM SSE streaming, Keyset/Cursor pagination, Redis Lua Token Bucket rate limiting, Idempotency Keys, and JWT JTI blacklists
+- **Modules 4 & 5 *(In Progress)*:** 9-Day AI System Design & LLM Infrastructure (`vLLM`, Layered RAG, Agent Loops) and 12-Pattern Zero-Allocation Systems DSA
 
 ---
 
