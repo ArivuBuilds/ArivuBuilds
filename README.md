@@ -59,7 +59,7 @@ Over **14+ years** dedicated to enterprise Life Insurance & Reinsurance platform
 ---
 
 ### 🤝 Let's Connect
-- **LinkedIn:** [linkedin.com/in/arivumani-a](https://www.linkedin.com/in/arivumani-a/)
+- **LinkedIn:** [linkedin.com/in/ArivuBuilds](https://www.linkedin.com/in/arivubuilds/)
 - **X (Twitter):** [@ArivuBuilds](https://x.com/ArivuBuilds)
 - **GitHub:** [github.com/ArivuBuilds](https://github.com/ArivuBuilds)
 
